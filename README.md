@@ -1,5 +1,13 @@
 <h1 align="center">🌞 Welcome to Summer CMS</h1>
 
+> Please note all the Summer CMS repo's are currently set to `private` as they are still being heavily developed behind the scene and not yet ready for public use! See below the number of contributions one of our team members Ayumi has added to the Summer CMS project in the last year.
+
+<p align="center">
+  <img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/commits.png"/>
+</p>
+
+<hr/>
+
 <h3>What is Summer CMS ?</h3>
 
 We love the World Wide Web, it's constantly changing and evolving everyday with new and exciting features, specifications and API's. Many webmasters choose to use content management system (CMS) / content management framework (CMF) to build their websites and applications. Summer CMS is different from traditional web content management systems and frameworks. It pushes the boundaries of web standards, frameworks and technology, what is limited to another system is not limited here.
