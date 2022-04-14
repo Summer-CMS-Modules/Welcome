@@ -1,6 +1,6 @@
 <h1 align="center">🌞 Welcome to Summer CMS</h1>
 
-> Please note all the Summer CMS repo's are currently set to `private` as they are still being heavily developed behind the scene and not yet ready for public use! See below the number of contributions one of our team members Ayumi has added to the Summer CMS project in the last year.
+> Please note all the Summer CMS repo's are currently set to `private` as they are still being heavily developed behind the scene and not yet ready for public use! When Summer CMS is ready for a candidate release the repo's will be switched over to `public` for testing and contributions. See below the number of contributions one of our team members Ayumi has added to the Summer CMS project in the last year.
 
 <p align="center">
   <img src="https://github.com/Summer-CMS-Modules/sc-vendor-packages-browser-svg-icons/blob/master/assets/images/commits.png"/>
@@ -29,8 +29,6 @@ We love the World Wide Web, it's constantly changing and evolving everyday with 
 <br>
 
 <p align="center"><img src="https://github.com/Summer-CMS/TEMP-Welcome-Screen/blob/master/assets/images/summer-cms.gif"></p>
-
-Currently all the repo's are set to `private` as the cms is being heavily coded behind the scenes and when ready for a candidate release will be switched over to `public`.
 
 ## Copyright and License 📄
 
